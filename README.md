@@ -15,7 +15,7 @@ Trata-se de um aplicativo Web (com responsividade mobile) que te como objetivo s
 
 ## Layout demostrativo:
 
-![foodexplorer]()
+![foodexplorer](https://github.com/dougdbp/food-explorer-frontend/blob/main/IMG%20para%20README.png?raw=true)
 
 ## Tecnologias utilizadas no Back-end:
 - JavaScript
