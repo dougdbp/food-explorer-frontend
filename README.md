@@ -63,4 +63,4 @@ $ npm run dev
 
 [Veja o Repositório do Back-end aqui](https://github.com/dougdbp/food-explorer-backend)
 <br>
-[Veja o resultado final aqui](https://douglaspeixoto.dev/projects/food-explorer)
+[Veja o resultado final aqui](https://foodexplorerdd.netlify.app)
